@@ -1,0 +1,11 @@
+python==3.10.11
+streamlit==1.32.0
+sqlite3==3.40.1
+chromadb==0.4.15
+sentence_transformers==2.2.2'
+datetime
+math
+random
+requests==2.31.0
+json==2.0.9
+glob
