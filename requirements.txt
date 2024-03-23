@@ -4,4 +4,3 @@ chromadb==0.4.15
 sentence-transformers==2.2.2
 datetime
 requests==2.31.0
-json==2.0.9
