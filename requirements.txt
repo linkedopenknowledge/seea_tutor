@@ -1,7 +1,7 @@
 streamlit==1.32.0
 pysqlite3
 chromadb==0.4.15
-sentence_transformers==2.2.2'
+sentence-transformers==2.2.2'
 datetime
 math
 random
