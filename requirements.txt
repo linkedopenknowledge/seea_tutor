@@ -1,5 +1,4 @@
 streamlit==1.32.0
-sentence-transformers==2.2.2
 datetime
 requests==2.31.0
 streamlit-chat
