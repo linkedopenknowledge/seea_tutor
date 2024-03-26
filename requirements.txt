@@ -2,3 +2,4 @@ streamlit==1.32.0
 datetime
 requests==2.31.0
 streamlit-chat
+streamlit_d3graph
